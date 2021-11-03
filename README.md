@@ -1,3 +1,7 @@
+![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 # Practice writing SQL database requests
 
 ## The [exercise](https://www.codecademy.com/courses/learn-sql/projects/fakeapps) from Codecademy [Learn SQL](https://www.codecademy.com/learn/learn-sql) course
